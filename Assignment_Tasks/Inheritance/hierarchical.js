@@ -1,5 +1,4 @@
-class Animal {
-    eat() {
+INheritance
         console.log("Animal eats food");
     }
 }
