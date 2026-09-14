@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Webpage using JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Dynamic Webpage</h1>
+
+        <p id="message">Welcome to my dynamic webpage!</p>
+
+        <!-- Change Text Button -->
+        <button onclick="changeText()">Change Text</button>
+
+        <!-- Change Background Button -->
+        <button onclick="changeBackground()">Change Background</button>
+
+        <hr>
+
+        <h2>Dynamic Item List</h2>
+
+        <input type="text" id="itemInput" placeholder="Enter an item">
+
+        <button onclick="addItem()">Add Item</button>
+
+        <ul id="itemList"></ul>
+
+        <hr>
+
+        <h2>Current Date and Time</h2>
+
+        <p id="dateTime"></p>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
