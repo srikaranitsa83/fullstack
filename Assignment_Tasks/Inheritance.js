@@ -1,8 +1,5 @@
-// ==========================================
 // INHERITANCE TYPES IN JAVASCRIPT
 // Banking Example
-// ==========================================
-
 
 // 1. SINGLE INHERITANCE
 // One child class inherits from one parent class
