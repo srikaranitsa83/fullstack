@@ -1,0 +1,595 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 10 0 R 12 0 R 14 0 R 16 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier /Encoding /WinAnsiEncoding >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier-Bold /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 7798 >>
+stream
+q 0.000 0.000 0.000 rg BT /F2 14.0 Tf 215.00 792.00 Td (LABORATORY RECORD) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 766.00 Td (Course: Full Stack Web Development) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 752.50 Td (Course Code: 23CM4121) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 739.00 Td (Experiment No.: Week 4) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 725.50 Td (Student Name: J.Srikar) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 712.00 Td (Roll No.: A24126552083) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 9.0 Tf 54.00 698.50 Td (Date: 25-08-2026) Tj ET Q
+q 0.75 w 0.700 0.700 0.700 RG 54.00 681.00 m 541.28 681.00 l S Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 666.00 Td (1. TITLE) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 10.0 Tf 54.00 651.00 Td (Develop Dynamic Webpage Using Java Script) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 633.00 Td (2. AIM) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 618.00 Td (To design and develop an interactive dynamic webpage using HTML, CSS, and client-side JavaScript that) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 606.20 Td (demonstrates Document Object Model \(DOM\) manipulation, dynamic content modification, algorithmic random) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 594.40 Td (color styling, dynamic creation and appending of list elements with input validation, and asynchronous) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 582.60 Td (real-time clock rendering.) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 560.80 Td (3. OBJECTIVE) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 545.80 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 545.80 Td (To understand client-side DOM \(Document Object Model\) access and element selection via) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 534.40 Td (document.getElementById\(\).) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 523.00 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 523.00 Td (To handle user interaction events via inline event handlers \(onclick\).) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 511.60 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 511.60 Td (To dynamically alter text node content using the textContent property without refreshing the page.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 500.20 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 500.20 Td (To dynamically modify CSS styles \(document.body.style.backgroundColor\) with random hexadecimal color) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 488.80 Td (generation.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 477.40 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 477.40 Td (To perform client-side input validation and error feedback using browser alert\(\) dialogs.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 466.00 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 466.00 Td (To instantiate, configure, and mount new DOM nodes dynamically using document.createElement\(\) and) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 454.60 Td (appendChild\(\).) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 443.20 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 443.20 Td (To implement asynchronous recurring execution using setInterval\(\) and the JavaScript Date API for live) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 431.80 Td (time tracking.) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 410.40 Td (4. THEORY) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 395.40 Td (A dynamic webpage is a webpage whose content, presentation, or behavior can change in real time in) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 383.60 Td (response to user actions or automated programmatic events without requiring a full page reload from the) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 371.80 Td (web server. Client-side scripting with JavaScript is the foundational standard for delivering) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 360.00 Td (interactivity on the modern web.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 343.20 Td (Key structural concepts implemented in this application:) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 331.40 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 331.40 Td (Document Object Model \(DOM\): The DOM is an object-oriented, hierarchical tree representation of an HTML) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 320.00 Td (document created by the browser. Each HTML tag is represented as an element node with accessible) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 308.60 Td (attributes, properties, and methods.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 297.20 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 297.20 Td (DOM Selection & Mutation: JavaScript provides selectors such as document.getElementById\(\) to retrieve) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 285.80 Td (specific elements. The .textContent property allows reading and safe writing of element text nodes) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 274.40 Td (without triggering costly HTML re-parsing.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 263.00 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 263.00 Td (Dynamic CSS Manipulation: Element style properties can be accessed and overridden directly via the) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 251.60 Td (element.style property. For example, document.body.style.backgroundColor = color dynamically applies) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 240.20 Td (runtime styling changes.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 228.80 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 228.80 Td (Random Color Generation: Colors in CSS can be defined in hexadecimal format \(#RRGGBB\). Generating a) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 217.40 Td (random integer between 0 and 16777215 \(0xFFFFFF\) using Math.floor\(Math.random\(\) * 16777215\) and) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 206.00 Td (converting it with .toString\(16\) provides 16.7 million possible hex color values.) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 194.60 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 194.60 Td (Dynamic Element Creation: Rather than hardcoding lists, elements can be created in memory via) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 183.20 Td (document.createElement\('li'\), configured with content \(newItem.textContent = itemText\), and inserted into) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 171.80 Td (the active DOM tree using parent node's .appendChild\(\).) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 160.40 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 160.40 Td (Form Input Validation: Validating inputs before processing prevents empty or invalid data submissions. If) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 149.00 Td (the .value of an input element is empty \(''\), execution is aborted, and a prompt is displayed to the user) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 137.60 Td (using alert\(\).) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 8.5 Tf 59.00 126.20 Td (*) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 126.20 Td (Asynchronous Timers \(setInterval\) & Date API: JavaScript's new Date\(\) object encapsulates current date,) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 114.80 Td (month, year, hours, minutes, and seconds. Passing updateDateTime to setInterval\(..., 1000\) creates a) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 70.00 103.40 Td (recurring timer triggering every 1000 ms to display a live ticking clock.) Tj ET Q
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 7064 >>
+stream
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 790.00 Td (5. ALGORITHM / PROCEDURE) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 775.00 Td (1. Initialize the HTML5 document structure with <!DOCTYPE html>, <html>, <head>, <style>, and <body> tags.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 763.40 Td (2. Define CSS styles for page background, container card, buttons, text inputs, hover effects, and list) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 751.80 Td (items.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 740.20 Td (3. Construct the HTML body containing heading, message paragraph \(#message\), and action buttons.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 728.60 Td (4. Add an input box \(<input id='itemInput'>\) alongside an 'Add Item' button and an unordered list \(<ul) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 717.00 Td (id='itemList'>\).) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 705.40 Td (5. Add a real-time clock container \(<p id='dateTime'>\) to host dynamic date and time outputs.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 693.80 Td (6. Implement changeText\(\) to fetch #message via document.getElementById\(\) and update textContent to the) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 682.20 Td (dynamic status text.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 670.60 Td (7. Implement changeBackground\(\) to compute Math.floor\(Math.random\(\) * 16777215\).toString\(16\) and set) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 659.00 Td (document.body.style.backgroundColor.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 647.40 Td (8. Implement addItem\(\) to validate input \(alerting if empty\), create <li> with createElement\(\), set) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 635.80 Td (textContent, append to #itemList, and clear input.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 624.20 Td (9. Implement updateDateTime\(\) to fetch new Date\(\), format with toLocaleString\(\), and assign to) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 612.60 Td (#dateTime.textContent.) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 601.00 Td (10. Register setInterval\(updateDateTime, 1000\) to tick every second, and invoke updateDateTime\(\) once) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.5 Tf 62.00 589.40 Td (immediately for initial rendering.) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 567.80 Td (6. PROGRAM) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 9.0 Tf 54.00 552.80 Td (week4.html \(Part 1: HTML Head, Document Setup & Internal CSS Styling\)) Tj ET Q
+q 0.75 w 0.750 0.800 0.850 RG 0.980 0.980 0.990 rg 54.00 80.80 487.28 460.00 re B Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 529.80 Td (<!DOCTYPE html>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 519.30 Td (<html lang="en">) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 508.80 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 498.30 Td (<head>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 487.80 Td (    <meta charset="UTF-8">) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 477.30 Td (    <meta name="viewport" content="width=device-width, initial-scale=1.0">) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 466.80 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 456.30 Td (    <title>Dynamic Webpage Using JavaScript</title>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 445.80 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 435.30 Td (    <style>) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 424.80 Td (        /* Page styling */) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 414.30 Td (        body {) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 403.80 Td (            font-family: Arial, sans-serif;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 393.30 Td (            background-color: lightblue;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 382.80 Td (            margin: 0;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 372.30 Td (            padding: 0;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 361.80 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 351.30 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 340.80 Td (        /* Main container */) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 330.30 Td (        .container {) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 319.80 Td (            width: 80%;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 309.30 Td (            max-width: 700px;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 298.80 Td (            margin: 50px auto;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 288.30 Td (            padding: 30px;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 277.80 Td (            background-color: white;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 267.30 Td (            text-align: center;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 256.80 Td (            border-radius: 10px;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 246.30 Td (            box-shadow: 0 0 10px gray;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 235.80 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 225.30 Td () Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 214.80 Td (        h1 { color: darkblue; }) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 204.30 Td (        #message { font-size: 20px; color: blue; }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 193.80 Td (        input { padding: 10px; width: 60%; margin: 10px; }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 183.30 Td () Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 172.80 Td (        button {) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 162.30 Td (            padding: 10px 15px;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 151.80 Td (            margin: 5px;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 141.30 Td (            border: none;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 130.80 Td (            border-radius: 5px;) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 120.30 Td (            background-color: blue;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 109.80 Td (            color: white;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 99.30 Td (            cursor: pointer;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 88.80 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 78.30 Td () Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 67.80 Td (        button:hover { background-color: darkblue; }) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 57.30 Td (        ul { list-style-type: none; padding: 0; }) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 46.80 Td (        li { background-color: lightgray; margin: 8px; padding: 10px; border-radius: 5px) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 36.30 Td (    </style>) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 25.80 Td (</head>) Tj ET Q
+endstream
+endobj
+12 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> /Contents 13 0 R >>
+endobj
+13 0 obj
+<< /Length 5816 >>
+stream
+q 0.100 0.100 0.100 rg BT /F2 9.0 Tf 54.00 790.00 Td (week4.html \(Part 2: HTML Body, Dynamic UI Controls & JavaScript Functions\)) Tj ET Q
+q 0.75 w 0.750 0.800 0.850 RG 0.980 0.980 0.990 rg 54.00 198.00 487.28 580.00 re B Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 767.00 Td (<body>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 756.50 Td (    <div class="container">) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 746.00 Td (        <h1>Dynamic Webpage</h1>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 735.50 Td (        <p id="message">Welcome to my dynamic webpage!</p>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 725.00 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 714.50 Td (        <!-- Change text -->) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 704.00 Td (        <button onclick="changeText\(\)">Change Text</button>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 693.50 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 683.00 Td (        <!-- Change background -->) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 672.50 Td (        <button onclick="changeBackground\(\)">Change Background</button>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 662.00 Td (        <hr>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 651.50 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 641.00 Td (        <h2>Dynamic Item List</h2>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 630.50 Td (        <input type="text" id="itemInput" placeholder="Enter an item">) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 620.00 Td (        <button onclick="addItem\(\)">Add Item</button>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 609.50 Td (        <ul id="itemList"></ul>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 599.00 Td (        <hr>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 588.50 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 578.00 Td (        <h2>Current Date and Time</h2>) Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 567.50 Td (        <p id="dateTime"></p>) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 557.00 Td (    </div>) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 546.50 Td () Tj ET Q
+q 0.600 0.150 0.100 rg BT /F5 7.8 Tf 64.00 536.00 Td (    <script>) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 525.50 Td (        // Function to change the paragraph text) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 515.00 Td (        function changeText\(\) {) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 504.50 Td (            document.getElementById\("message"\).textContent =) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 494.00 Td (                "The webpage has been changed dynamically using JavaScript!";) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 483.50 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 473.00 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 462.50 Td (        // Function to change the background color) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 452.00 Td (        function changeBackground\(\) {) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 441.50 Td (            // Generate a random color) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 431.00 Td (            let color = "#" + Math.floor\(Math.random\(\) * 16777215\).toString\(16\);) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 420.50 Td (            // Change the background color) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 410.00 Td (            document.body.style.backgroundColor = color;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 399.50 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 389.00 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 378.50 Td (        // Function to add a new item) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 368.00 Td (        function addItem\(\) {) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 357.50 Td (            // Get the input element) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 347.00 Td (            let input = document.getElementById\("itemInput"\);) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 336.50 Td (            // Get the entered text) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 326.00 Td (            let itemText = input.value;) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 315.50 Td (            // Check whether input is empty) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 305.00 Td (            if \(itemText === ""\) {) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 294.50 Td (                alert\("Please enter an item!"\);) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 284.00 Td (                return;) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 273.50 Td (            }) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 263.00 Td (            // Create a new list item) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 252.50 Td (            let newItem = document.createElement\("li"\);) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 242.00 Td (            // Add text to the list item) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 231.50 Td (            newItem.textContent = itemText;) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 221.00 Td (            // Add the list item to the webpage) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 210.50 Td (            document.getElementById\("itemList"\).appendChild\(newItem\);) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 200.00 Td (            // Clear the input box) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 189.50 Td (            input.value = "";) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 179.00 Td (        }) Tj ET Q
+endstream
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> /Contents 15 0 R >>
+endobj
+15 0 obj
+<< /Length 8877 >>
+stream
+q 0.100 0.100 0.100 rg BT /F2 9.0 Tf 54.00 790.00 Td (week4.html \(Part 3: Clock Timer, Finalization & Closing Tags\)) Tj ET Q
+q 0.75 w 0.750 0.800 0.850 RG 0.980 0.980 0.990 rg 54.00 628.00 487.28 150.00 re B Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 767.00 Td (        // Function to display date and time) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 756.50 Td (        function updateDateTime\(\) {) Tj ET Q
+q 0.100 0.200 0.650 rg BT /F5 7.8 Tf 64.00 746.00 Td (            let currentDate = new Date\(\);) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 735.50 Td (            document.getElementById\("dateTime"\).textContent = currentDate.toLocaleString) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 725.00 Td (        }) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 714.50 Td () Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 704.00 Td (        // Update date and time every second) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 693.50 Td (        setInterval\(updateDateTime, 1000\);) Tj ET Q
+q 0.250 0.550 0.250 rg BT /F4 7.8 Tf 64.00 683.00 Td (        // Display date and time when page loads) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F4 7.8 Tf 64.00 672.50 Td (        updateDateTime\(\);) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 662.00 Td (    </script>) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 651.50 Td (</body>) Tj ET Q
+q 0.200 0.200 0.400 rg BT /F4 7.8 Tf 64.00 641.00 Td (</html>) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 616.00 Td (7. CODE EXPLANATION) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 8.5 Tf 54.00 601.00 Td (Detailed technical breakdown of the HTML elements, CSS rules, and JavaScript DOM manipulation logic:) Tj ET Q
+q 0.75 w 0.500 0.500 0.500 RG 0.980 0.900 0.830 rg 54.00 572.00 487.28 18.00 re B Q
+q 0.300 0.100 0.050 rg BT /F2 8.0 Tf 59.00 577.50 Td (Code / Element) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 590.00 m 219.00 572.00 l S Q
+q 0.300 0.100 0.050 rg BT /F2 8.0 Tf 224.00 577.50 Td (Explanation) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 546.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 561.00 Td (<!DOCTYPE html>, <html>, <body>) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 572.00 m 219.00 546.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 561.00 Td (Core structural HTML5 root elements declaring standards mode and document) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 550.00 Td (containers.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 520.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 535.00 Td (<style> .container { ... } </style>) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 546.00 m 219.00 520.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 535.00 Td (Internal CSS defining responsive card layout \(width: 80%, max-width:) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 524.00 Td (700px, box-shadow\).) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 494.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 509.00 Td (<button onclick="changeText\(\)">) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 520.00 m 219.00 494.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 509.00 Td (Interactive button binding user click events to invoke the JavaScript) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 498.00 Td (changeText\(\) function.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 468.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 483.00 Td (document.getElementById\("message"\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 494.00 m 219.00 468.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 483.00 Td (DOM query method selecting the specific element node carrying the unique) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 472.00 Td (ID 'message'.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 442.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 457.00 Td (.textContent = "...") Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 468.00 m 219.00 442.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 457.00 Td (Property that updates the textual node content safely without reparsing) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 446.00 Td (HTML tags.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 416.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 431.00 Td (Math.random\(\) * 16777215) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 442.00 m 219.00 416.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 431.00 Td (Generates a random numerical value within the 24-bit RGB hexadecimal color) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 420.00 Td (spectrum.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 390.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 405.00 Td (.toString\(16\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 416.00 m 219.00 390.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 405.00 Td (Number prototype method converting the integer into its base-16) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 394.00 Td (hexadecimal representation.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 364.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 379.00 Td (document.body.style.backgroundColor) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 390.00 m 219.00 364.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 379.00 Td (Directly mutates the inline CSS background-color style of the document) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 368.00 Td (body element.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 338.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 353.00 Td (if \(itemText === ""\) alert\(...\);) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 364.00 m 219.00 338.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 353.00 Td (Input validation routine displaying a modal warning dialog when input is) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 342.00 Td (empty.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 312.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 327.00 Td (document.createElement\("li"\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 338.00 m 219.00 312.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 327.00 Td (Programmatically creates a new HTML list item element \(<li>\) in browser) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 316.00 Td (memory.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 286.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 301.00 Td (appendChild\(newItem\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 312.00 m 219.00 286.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 301.00 Td (Inserts the newly created <li> element as a child of the <ul> container in) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 290.00 Td (the DOM tree.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 260.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 275.00 Td (let currentDate = new Date\(\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 286.00 m 219.00 260.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 275.00 Td (Instantiates a JavaScript Date object capturing current system date and) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 264.00 Td (clock timestamp.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 234.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 249.00 Td (currentDate.toLocaleString\(\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 260.00 m 219.00 234.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 249.00 Td (Formats the date and time instance into a readable regional string) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 238.00 Td (representation.) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 208.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 223.00 Td (setInterval\(updateDateTime, 1000\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 234.00 m 219.00 208.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 223.00 Td (Schedules the updateDateTime function to execute asynchronously every) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 212.00 Td (1000ms \(1 second\).) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 182.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 197.00 Td (updateDateTime\(\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 219.00 208.00 m 219.00 182.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 197.00 Td (Initial direct function call to render the clock immediately on page load) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 224.00 186.00 Td (without delay.) Tj ET Q
+endstream
+endobj
+16 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R /F5 7 0 R >> >> /Contents 17 0 R >>
+endobj
+17 0 obj
+<< /Length 16547 >>
+stream
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 790.00 Td (8. TEST CASES AND EXECUTION DATA) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F1 8.5 Tf 54.00 775.00 Td (The dynamic webpage events, DOM mutations, and script behaviors were tested and validated:) Tj ET Q
+q 0.75 w 0.500 0.500 0.500 RG 0.900 0.940 0.980 rg 54.00 745.00 487.28 18.00 re B Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 59.00 750.50 Td (Test Case) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 763.00 m 100.00 745.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 105.00 750.50 Td (Feature Tested) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 763.00 m 192.00 745.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 197.00 750.50 Td (Action / Input) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 763.00 m 310.00 745.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 315.00 750.50 Td (Expected Result) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 763.00 m 420.00 745.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 425.00 750.50 Td (Actual Result) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 763.00 m 496.00 745.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 501.00 750.50 Td (Status) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 719.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 734.00 Td (TC-01) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 745.00 m 100.00 719.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 734.00 Td (Page Load Layout) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 745.00 m 192.00 719.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 734.00 Td (Load week4.html in) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 723.00 Td (browser) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 745.00 m 310.00 719.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 734.00 Td (Render container card,) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 723.00 Td (buttons, input) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 745.00 m 420.00 719.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 734.00 Td (Displayed) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 723.00 Td (cleanly) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 745.00 m 496.00 719.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 734.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 693.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 708.00 Td (TC-02) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 719.00 m 100.00 693.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 708.00 Td (Initial Message) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 719.00 m 192.00 693.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 708.00 Td (Inspect #message on load) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 719.00 m 310.00 693.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 708.00 Td (Show 'Welcome to my) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 697.00 Td (dynamic webpage!') Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 719.00 m 420.00 693.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 708.00 Td (Text verified) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 719.00 m 496.00 693.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 708.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 667.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 682.00 Td (TC-03) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 693.00 m 100.00 667.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 682.00 Td (Change Text Event) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 693.00 m 192.00 667.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 682.00 Td (Click 'Change Text') Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 671.00 Td (button) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 693.00 m 310.00 667.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 682.00 Td (Update message text via) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 671.00 Td (textContent) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 693.00 m 420.00 667.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 682.00 Td (Message updated) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 693.00 m 496.00 667.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 682.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 641.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 656.00 Td (TC-04) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 667.00 m 100.00 641.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 656.00 Td (Change Background) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 667.00 m 192.00 641.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 656.00 Td (Click 'Change Background') Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 667.00 m 310.00 641.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 656.00 Td (Apply random hex color) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 645.00 Td (to body style) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 667.00 m 420.00 641.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 656.00 Td (Background) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 645.00 Td (changed) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 667.00 m 496.00 641.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 656.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 615.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 630.00 Td (TC-05) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 641.00 m 100.00 615.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 630.00 Td (Consecutive Colors) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 641.00 m 192.00 615.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 630.00 Td (Click color button 5) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 619.00 Td (times) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 641.00 m 310.00 615.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 630.00 Td (Generates distinct hex) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 619.00 Td (colors each time) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 641.00 m 420.00 615.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 630.00 Td (Colors vary) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 619.00 Td (randomly) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 641.00 m 496.00 615.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 630.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 589.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 604.00 Td (TC-06) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 615.00 m 100.00 589.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 604.00 Td (Add Valid Item) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 615.00 m 192.00 589.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 604.00 Td (Input 'Milk' & click Add) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 593.00 Td (Item) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 615.00 m 310.00 589.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 604.00 Td (Append new <li> element) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 593.00 Td (to #itemList) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 615.00 m 420.00 589.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 604.00 Td (Item added to) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 593.00 Td (list) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 615.00 m 496.00 589.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 604.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 563.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 578.00 Td (TC-07) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 589.00 m 100.00 563.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 578.00 Td (Input Box Reset) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 589.00 m 192.00 563.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 578.00 Td (Inspect input after) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 567.00 Td (adding item) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 589.00 m 310.00 563.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 578.00 Td (Input field reset to) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 567.00 Td (empty string '') Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 589.00 m 420.00 563.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 578.00 Td (Input box) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 567.00 Td (cleared) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 589.00 m 496.00 563.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 578.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 537.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 552.00 Td (TC-08) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 563.00 m 100.00 537.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 552.00 Td (Empty Input Alert) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 563.00 m 192.00 537.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 552.00 Td (Click Add Item with empty) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 541.00 Td (input) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 563.00 m 310.00 537.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 552.00 Td (Trigger browser alert) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 541.00 Td ('Please enter an item!') Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 563.00 m 420.00 537.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 552.00 Td (Alert dialog) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 541.00 Td (shown) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 563.00 m 496.00 537.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 552.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 511.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 526.00 Td (TC-09) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 537.00 m 100.00 511.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 526.00 Td (Clock Initial) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 515.00 Td (Render) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 537.00 m 192.00 511.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 526.00 Td (Inspect #dateTime on load) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 537.00 m 310.00 511.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 526.00 Td (Display localized) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 515.00 Td (current date & time) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 537.00 m 420.00 511.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 526.00 Td (Clock displayed) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 537.00 m 496.00 511.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 526.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 485.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 500.00 Td (TC-10) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 100.00 511.00 m 100.00 485.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 105.00 500.00 Td (Clock Ticking Timer) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 192.00 511.00 m 192.00 485.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 500.00 Td (Observe clock for 3) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 197.00 489.00 Td (seconds) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 310.00 511.00 m 310.00 485.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 500.00 Td (Seconds increment every) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 315.00 489.00 Td (1000ms) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 420.00 511.00 m 420.00 485.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 500.00 Td (Time ticks) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 425.00 489.00 Td (dynamically) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 496.00 511.00 m 496.00 485.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 504.00 500.00 Td (Pass) Tj ET Q
+q 0.100 0.100 0.100 rg BT /F2 9.0 Tf 54.00 474.00 Td (Additional Boundary & Edge Case Validation) Tj ET Q
+q 0.75 w 0.500 0.500 0.500 RG 0.900 0.940 0.980 rg 54.00 445.00 487.28 18.00 re B Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 59.00 450.50 Td (Test Case) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 109.00 463.00 m 109.00 445.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 114.00 450.50 Td (Input / Scenario) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 264.00 463.00 m 264.00 445.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 269.00 450.50 Td (Expected Behavioral Result) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 486.28 463.00 m 486.28 445.00 l S Q
+q 0.100 0.200 0.400 rg BT /F2 8.0 Tf 491.28 450.50 Td (Status) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 419.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 434.00 Td (TC-11) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 109.00 445.00 m 109.00 419.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 434.00 Td (Item text containing symbols) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 423.00 Td (\('HTML & CSS + JS!'\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 264.00 445.00 m 264.00 419.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 434.00 Td (Correctly creates text node without HTML injection) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 423.00 Td (vulnerabilities) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 486.28 445.00 m 486.28 419.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 494.28 434.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 393.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 408.00 Td (TC-12) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 109.00 419.00 m 109.00 393.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 408.00 Td (Item text containing numerals) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 397.00 Td (\('Assignment #4'\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 264.00 419.00 m 264.00 393.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 408.00 Td (Accurately represents string data inside styled) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 397.00 Td (list element) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 486.28 419.00 m 486.28 393.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 494.28 408.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 1.000 1.000 1.000 rg 54.00 367.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 382.00 Td (TC-13) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 109.00 393.00 m 109.00 367.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 382.00 Td (Multiple items added in sequence) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 371.00 Td (\(5 items\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 264.00 393.00 m 264.00 367.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 382.00 Td (Maintains strict FIFO order and renders distinct) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 371.00 Td (<li> child nodes) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 486.28 393.00 m 486.28 367.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 494.28 382.00 Td (Pass) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 0.980 0.980 0.980 rg 54.00 341.00 487.28 26.00 re B Q
+q 0.100 0.100 0.100 rg BT /F2 7.5 Tf 59.00 356.00 Td (TC-14) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 109.00 367.00 m 109.00 341.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 356.00 Td (Continuous timer execution \(over 5) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 114.00 345.00 Td (minutes\)) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 264.00 367.00 m 264.00 341.00 l S Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 356.00 Td (Clock maintains accurate interval cadence without) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 7.5 Tf 269.00 345.00 Td (memory leaks) Tj ET Q
+q 0.50 w 0.500 0.500 0.500 RG 486.28 367.00 m 486.28 341.00 l S Q
+q 0.000 0.500 0.100 rg BT /F2 8.0 Tf 494.28 356.00 Td (Pass) Tj ET Q
+q 0.000 0.000 0.000 rg BT /F2 11.0 Tf 54.00 326.00 Td (9. RESULT) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 311.00 Td (Thus, an interactive dynamic webpage was successfully developed and verified using HTML, CSS, and) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 299.20 Td (client-side JavaScript. The implementation demonstrated core Document Object Model \(DOM\) manipulation) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 287.40 Td (techniques including targeted element selection, dynamic text updating, algorithmic random background) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 275.60 Td (color generation, dynamic element creation and appending with input validation, and real-time clock) Tj ET Q
+q 0.150 0.150 0.150 rg BT /F1 8.8 Tf 54.00 263.80 Td (rendering using asynchronous timer intervals without any runtime errors.) Tj ET Q
+endstream
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000149 00000 n 
+0000000246 00000 n 
+0000000348 00000 n 
+0000000453 00000 n 
+0000000548 00000 n 
+0000000648 00000 n 
+0000000820 00000 n 
+0000008670 00000 n 
+0000008844 00000 n 
+0000015961 00000 n 
+0000016135 00000 n 
+0000022004 00000 n 
+0000022178 00000 n 
+0000031108 00000 n 
+0000031282 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+47883
+%%EOF
