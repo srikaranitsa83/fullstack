@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>DOM Interactive Demo</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+
+            background: linear-gradient(
+                135deg,
+                #667eea,
+                #764ba2
+            );
+
+            min-height: 100vh;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            padding: 25px;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+
+            background: white;
+
+            padding: 35px;
+
+            border-radius: 25px;
+
+            text-align: center;
+
+            box-shadow:
+                0 15px 40px rgba(0, 0, 0, 0.25);
+        }
+
+        h1 {
+            color: #4f46e5;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #64748b;
+            margin-bottom: 25px;
+        }
+
+        #heading {
+            color: #7c3aed;
+
+            background: #f3e8ff;
+
+            padding: 18px;
+
+            border-radius: 15px;
+
+            transition: 0.3s;
+        }
+
+        #message {
+            color: #475569;
+
+            font-size: 18px;
+
+            line-height: 1.6;
+
+            margin: 20px 0;
+        }
+
+        #image {
+            width: 150px;
+            height: 150px;
+
+            object-fit: cover;
+
+            border-radius: 20px;
+
+            border: 5px solid #c4b5fd;
+
+            transition: 0.3s;
+        }
+
+        .buttons {
+            display: flex;
+
+            flex-wrap: wrap;
+
+            justify-content: center;
+
+            gap: 10px;
+
+            margin-top: 25px;
+        }
+
+        button {
+            border: none;
+
+            border-radius: 12px;
+
+            padding: 12px 18px;
+
+            font-size: 14px;
+
+            font-weight: bold;
+
+            color: white;
+
+            cursor: pointer;
+
+            transition: 0.2s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+
+            opacity: 0.9;
+        }
+
+        .content-btn {
+            background: #2563eb;
+        }
+
+        .style-btn {
+            background: #9333ea;
+        }
+
+        .attribute-btn {
+            background: #059669;
+        }
+
+        .reset-btn {
+            background: #64748b;
+        }
+
+        #status {
+            margin-top: 20px;
+
+            color: #64748b;
+
+            font-size: 14px;
+
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+
+<body>
+
+    <div class="container">
+
+        <h1>DOM Interactive Demo</h1>
+
+        <p class="subtitle">
+            Explore how JavaScript changes HTML elements.
+        </p>
+
+
+        <h2 id="heading">
+            Welcome to the Webpage
+        </h2>
+
+
+        <p id="message">
+            This is a sample paragraph.
+        </p>
+
+
+        <img
+            id="image"
+            src="https://placehold.co/150x150/7c3aed/ffffff?text=IMAGE"
+            alt="Sample Image"
+        >
+
+
+        <div class="buttons">
+
+            <button
+                class="content-btn"
+                onclick="changeContent()">
+                Change Content
+            </button>
+
+
+            <button
+                class="style-btn"
+                onclick="changeStyle()">
+                Change Style
+            </button>
+
+
+            <button
+                class="attribute-btn"
+                onclick="changeAttribute()">
+                Change Attribute
+            </button>
+
+
+            <button
+                class="reset-btn"
+                onclick="resetPage()">
+                Reset
+            </button>
+
+        </div>
+
+
+        <p id="status">
+            Ready
+        </p>
+
+    </div>
+
+
+    <script>
+
+        // Change the content of HTML elements
+        function changeContent() {
+
+            document.getElementById("heading").textContent =
+                "Updated Heading";
+
+            document.getElementById("message").textContent =
+                "The paragraph content has been changed.";
+
+            document.getElementById("status").textContent =
+                "Content changed";
+
+        }
+
+
+        // Change the style of HTML elements
+        function changeStyle() {
+
+            let heading =
+                document.getElementById("heading");
+
+            let image =
+                document.getElementById("image");
+
+
+            heading.style.color = "#ffffff";
+
+            heading.style.backgroundColor = "#9333ea";
+
+            heading.style.fontSize = "28px";
+
+            image.style.borderColor = "#9333ea";
+
+            image.style.borderRadius = "50%";
+
+
+            document.getElementById("status").textContent =
+                "Style changed";
+
+        }
+
+
+        // Change HTML attributes
+        function changeAttribute() {
+
+            let image =
+                document.getElementById("image");
+
+
+            image.setAttribute(
+                "src",
+                "https://placehold.co/150x150/06b6d4/ffffff?text=NEW"
+            );
+
+
+            image.setAttribute(
+                "alt",
+                "Updated Image"
+            );
+
+
+            image.setAttribute(
+                "title",
+                "Image attribute changed"
+            );
+
+
+            document.getElementById("status").textContent =
+                "Attribute changed";
+
+        }
+
+
+        // Reset the webpage
+        function resetPage() {
+
+            document.getElementById("heading").textContent =
+                "Welcome to the Webpage";
+
+
+            document.getElementById("message").textContent =
+                "This is a sample paragraph.";
+
+
+            let heading =
+                document.getElementById("heading");
+
+
+            heading.style.color = "#7c3aed";
+
+            heading.style.backgroundColor = "#f3e8ff";
+
+            heading.style.fontSize = "";
+
+
+            let image =
+                document.getElementById("image");
+
+
+            image.setAttribute(
+                "src",
+                "https://placehold.co/150x150/7c3aed/ffffff?text=IMAGE"
+            );
+
+
+            image.setAttribute(
+                "alt",
+                "Sample Image"
+            );
+
+
+            image.removeAttribute("title");
+
+
+            image.style.borderColor = "#c4b5fd";
+
+            image.style.borderRadius = "20px";
+
+
+            document.getElementById("status").textContent =
+                "Ready";
+
+        }
+
+    </script>
+
+</body>
+</html>
+
