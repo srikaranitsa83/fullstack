@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Interactive Product Calculator</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            padding: 30px;
+        }
+
+        .calculator {
+            width: 350px;
+            margin: auto;
+            background-color: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        input {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+
+        #result {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #e8f5e9;
+            text-align: center;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="calculator">
+
+        <h2>Product Calculator</h2>
+
+        <!-- Product Name -->
+        <label for="productName">Product Name:</label>
+        <input type="text" id="productName" placeholder="Enter product name">
+
+        <!-- Quantity -->
+        <label for="quantity">Quantity:</label>
+        <input type="number" id="quantity" value="1" min="1">
+
+        <!-- Price -->
+        <label for="price">Price per Item (₹):</label>
+        <input type="number" id="price" value="100" min="0">
+
+        <!-- Total -->
+        <div id="result">
+            Total Price: ₹100.00
+        </div>
+
+    </div>
+
+    <script>
+        // Function to calculate the total price
+        function calculateTotal() {
+
+            // Get quantity and price values
+            let quantity = Number(document.getElementById("quantity").value);
+            let price = Number(document.getElementById("price").value);
+
+            // Calculate total
+            let total = quantity * price;
+
+            // Display the result
+            document.getElementById("result").textContent =
+                "Total Price: ₹" + total.toFixed(2);
+        }
+
+        // Add event listeners
+        document.getElementById("quantity").addEventListener("input", calculateTotal);
+        document.getElementById("price").addEventListener("input", calculateTotal);
+    </script>
+
+</body>
+</html>
+
