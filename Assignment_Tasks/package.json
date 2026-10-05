@@ -1,0 +1,21 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "description": "Student Information Management System using MongoDB and Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "student-management",
+    "collegeDB"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
