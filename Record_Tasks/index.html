@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSON Server HTTP Methods</title>
+</head>
+<body>
+
+    <h1>Student Management</h1>
+
+    <button onclick="getStudents()">GET Students</button>
+    <button onclick="addStudent()">POST Student</button>
+    <button onclick="updateStudent()">PUT Student</button>
+    <button onclick="deleteStudent()">DELETE Student</button>
+
+    <pre id="output"></pre>
+
+    <script>
+        const url = "http://localhost:3000/students";
+
+        async function getStudents() {
+            const response = await fetch(url);
+            const data = await response.json();
+            document.getElementById("output").textContent =
+                JSON.stringify(data, null, 2);
+        }
+
+        async function addStudent() {
+            const response = await fetch(url, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    name: "Rahul",
+                    branch: "ECE",
+                    marks: 88
+                })
+            });
+
+            const data = await response.json();
+            document.getElementById("output").textContent =
+                JSON.stringify(data, null, 2);
+        }
+
+        async function updateStudent() {
+            const response = await fetch(`${url}/1`, {
+                method: "PUT",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({
+                    name: "Ravi Kumar",
+                    branch: "CSE-AIML",
+                    marks: 95
+                })
+            });
+
+            const data = await response.json();
+            document.getElementById("output").textContent =
+                JSON.stringify(data, null, 2);
+        }
+
+        async function deleteStudent() {
+            const response = await fetch(`${url}/2`, {
+                method: "DELETE"
+            });
+
+            document.getElementById("output").textContent =
+                "Student deleted successfully";
+        }
+    </script>
+
+</body>
+</html>
