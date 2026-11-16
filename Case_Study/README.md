@@ -3,8 +3,8 @@
 ## Web Hosting, Domain Names, and the Role of DNS
 
 ### Student Metadata
-* **Student Name:** Harsha
-* **Roll Number:** A24126552075
+* **Student Name:** J.Srikar
+* **Roll Number:** A24126552083
 * **Branch:** Computer Science & Engineering (AI & ML)
 * **Institution:** Anil Neerukonda Institute of Technology and Sciences (ANITS), Visakhapatnam
 * **Course:** Web Application Architecture & Cloud Deployment
